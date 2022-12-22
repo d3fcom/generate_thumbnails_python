@@ -13,7 +13,7 @@ destination_folder = "C:/user/video/destination/"
 # Function to rename multiple files
 def main():
     i = 0
-    for filename in os.listdir(video_folder):
+    for filename in os.listdir(videos_folder):
       my_video =str(i) + ".mp4"
       print("proccesing this video :  " + my_video)
       clip = VideoFileClip(my_video) 
