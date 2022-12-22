@@ -1,3 +1,6 @@
+made by : weis
+2022/12/22
+
 # generate_thumbnails_python
 Python script to mass generate thumbnails , out of a all the videos of a folder.
 
@@ -16,5 +19,5 @@ Python script to mass generate thumbnails , out of a all the videos of a folder.
   
   run this command :
   
-  python generate_.py
+  python generate_images.py
   
