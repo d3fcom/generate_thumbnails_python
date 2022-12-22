@@ -11,8 +11,7 @@ Python script to mass generate thumbnails , out of a all the videos of a folder.
 
 -   pip install os-sys
 -  pip install moviepy
- 
--pip install pillow
+-  pip install pillow
    
 - replace the source of your videos 
   (line 11)
